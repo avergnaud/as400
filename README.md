@@ -2,7 +2,7 @@
 
 ## mind map
 
-...
+![mind map](./docs/pentesting_AS400.drawio.svg?raw=true)
 
 ## sources
 
